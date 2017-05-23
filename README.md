@@ -1,2 +1,3 @@
 # CustomsSpider
-中国海关总署的一个简单的爬虫，还在完善中
+A simple spider of General Administration of Customs of People's Republic of China
+url:http://www.customs.gov.cn/publish/portal0/tab49666/
