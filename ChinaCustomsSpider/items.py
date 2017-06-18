@@ -16,4 +16,6 @@ class ChinacustomsspiderItem(scrapy.Item):
     keyword = scrapy.Field()
     dataupdate = scrapy.Field()
     contents = scrapy.Field()
+    description = scrapy.Field()
+    alltypes = scrapy.Field()
     pass
